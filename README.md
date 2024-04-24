@@ -32,7 +32,7 @@ Welcome to the Trading System API! This project provides a RESTful API for tradi
 > pip install -r requirements.txt
 3. Apply migrations to set up the database:
 > python manage.py migrate
-4. Start the development server:
+4. Start the app:
 > python manage.py runserver
 5. Access the API endpoints using tools like cURL, Postman, or your web browser.
 
